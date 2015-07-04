@@ -1,4 +1,6 @@
-package from011to020;
+package project.euler.from011to020;
+
+import project.euler.util.LargeInteger;
 
 /**
  * problem 20 - factorial digit sum
@@ -13,6 +15,15 @@ public class Problem020
 {
 	public static void main(String[] args)
 	{
+		int number = 100;
 		
+		LargeInteger result = new LargeInteger(new Integer(1));
+		for (int i = 1; i <= number; i++)
+		{
+			result.multiply(new LargeInteger(new Integer(i)));
+		}
+		
+		System.out.println(result.toString());
+		System.out.println(result.getDigitSum());
 	}
 }

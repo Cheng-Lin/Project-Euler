@@ -1,4 +1,4 @@
-package from001to010;
+package project.euler.from001to010;
 
 /**
  * The prime factors of 13195 are 5, 7, 13 and 29.

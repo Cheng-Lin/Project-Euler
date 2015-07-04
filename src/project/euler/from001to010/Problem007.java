@@ -1,4 +1,4 @@
-package from001to010;
+package project.euler.from001to010;
 
 /**
  * By listing the first six prime numbers: 2, 3, 5, 7, 11, 

@@ -1,4 +1,4 @@
-package from001to010;
+package project.euler.from001to010;
 
 /**
  * Find the greatest product of five consecutive digits 

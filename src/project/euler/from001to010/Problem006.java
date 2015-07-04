@@ -1,4 +1,4 @@
-package from001to010;
+package project.euler.from001to010;
 
 /**
  * The sum of the squares of the first ten natural 

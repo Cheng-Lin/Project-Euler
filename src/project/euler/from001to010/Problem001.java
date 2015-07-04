@@ -1,4 +1,4 @@
-package from001to010;
+package project.euler.from001to010;
 
 /**
  * If we list all the natural numbers below 10 that are 

@@ -1,4 +1,4 @@
-package from001to010;
+package project.euler.from001to010;
 
 /**
  * A Pythagorean triplet is a set of three natural numbers, 

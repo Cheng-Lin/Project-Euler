@@ -1,4 +1,4 @@
-package from011to020;
+package project.euler.from011to020;
 
 import java.util.ArrayList;
 

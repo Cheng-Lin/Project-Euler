@@ -1,4 +1,4 @@
-package from061to070;
+package project.euler.from061to070;
 
 import java.io.File;
 import java.io.FileNotFoundException;

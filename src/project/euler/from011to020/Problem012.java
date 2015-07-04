@@ -1,4 +1,4 @@
-package from011to020;
+package project.euler.from011to020;
 
 public class Problem012 
 {

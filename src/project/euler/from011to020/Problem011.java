@@ -162,5 +162,6 @@ public class Problem011
 		}
 		
 		System.out.println(product);
+		input.close();
 	}
 }

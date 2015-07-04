@@ -11,7 +11,7 @@ public class Problem007
 {
 	public static void main(String[] args) 
 	{
-		int first = 2;
+		// int first = 2;
 		int second = 3;
 		int num = second;
 		int count = 2;

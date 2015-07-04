@@ -10,7 +10,7 @@ public class Problem016
 		num.add(2);
 
 		boolean ten = false;
-		boolean addOne = false;
+		// boolean addOne = false;
 
 		for (int i = 2; i <= 1000; i++)
 		{

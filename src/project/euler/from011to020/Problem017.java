@@ -25,7 +25,7 @@ public class Problem017
 			{
 				int and = 3;
 				int hundred = 7;
-				int[] beyond = {8, 7, 7, 8, 11, 11, 10};
+				// int[] beyond = {8, 7, 7, 8, 11, 11, 10};
 
 				for (int i = 0; i < tenth.length; i++) {
 					result += tenth[i] * 10 + onethSum;
